@@ -44,5 +44,4 @@ variable "cs16_port" {
 variable "cidrs" { 
 	description = "Cidrs Liberados"
 	type = list
-	default = [ "179.209.168.55/32" ]
 }
